@@ -30,8 +30,19 @@ Esse projeto foi elaborado durante o Módulo de __Front-end__ do curso da Trybe 
 <a href="https://github.com/aimemartins">
   <img src="https://avatars.githubusercontent.com/u/108954069?v=4" width="80px" alt="Aimê Martins"/> <p>Aimê Martins</p>
 
-<a href="https://github.com/aimemartins">
-  <img src="https://avatars.githubusercontent.com/u/108954069?v=4" width="80px" alt="Aimê Martins"/> <p>Aimê Martins</p>
+<a href="https://github.com/JoaoFelipeKraemer">
+  <img src="https://avatars.githubusercontent.com/u/109055709?v=4" width="80px" alt="João Felipe Kraemer"/> <p>João Felipe Kraemer</p>
+
+<a href="https://github.com/joaolelles">
+  <img src="https://avatars.githubusercontent.com/u/105746799?v=4" width="80px" alt="João Lelles"/> <p>João Lelles</p>
+
+<a href="https://github.com/joseaneOliF">
+  <img src="https://avatars.githubusercontent.com/u/91392490?v=4" width="80px" alt="Joseane Oliveira"/> <p>Joseane Oliveira</p>
+
+<a href="https://github.com/sergiomoreirasjr">
+  <img src="https://avatars.githubusercontent.com/u/108958541?v=4" width="80px" alt="Sérgio Moreira"/> <p>Sérgio Moreira</p>
+
+
 
 
 ## Sobre
